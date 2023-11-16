@@ -1,5 +1,5 @@
 # Sentiment_analysis_telaverge
- 
+ SocialSent is the result of meticulous integration of cutting-edge technologies and robust programming frameworks. Developed using Flask, HTML, CSS, JavaScript, and a plethora of Python libraries including Expert.ai, Tweepy, and BeautifulSoup, SocialSent is designed to unravel sentiments from diverse sources, offering users a comprehensive understanding of public opinion.
 ![WhatsApp Image 2023-11-16 at 23 39 36_aac33162](https://github.com/shobhit418/Sentiment_analysis_telaverge/assets/89989484/b54411ad-37ef-4375-bb87-3ac9a34bbeee)
 .
 <img width="960" alt="app1" src="https://github.com/shobhit418/Socialsent/assets/89989484/e7af716a-ad11-465f-9300-0b98e15a9a31">
